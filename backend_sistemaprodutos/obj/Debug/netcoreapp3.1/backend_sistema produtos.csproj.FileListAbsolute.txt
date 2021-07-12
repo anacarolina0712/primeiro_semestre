@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\bin\Debug\netcoreapp3.1\backend_sistema produtos.exe
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\bin\Debug\netcoreapp3.1\backend_sistema produtos.deps.json
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\bin\Debug\netcoreapp3.1\backend_sistema produtos.runtimeconfig.json
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\bin\Debug\netcoreapp3.1\backend_sistema produtos.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\bin\Debug\netcoreapp3.1\backend_sistema produtos.dll
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\bin\Debug\netcoreapp3.1\backend_sistema produtos.pdb
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\obj\Debug\netcoreapp3.1\backend_sistema produtos.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\obj\Debug\netcoreapp3.1\backend_sistema produtos.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\obj\Debug\netcoreapp3.1\backend_sistema produtos.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\obj\Debug\netcoreapp3.1\backend_sistema produtos.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\obj\Debug\netcoreapp3.1\backend_sistema produtos.dll
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\obj\Debug\netcoreapp3.1\backend_sistema produtos.pdb
+C:\Users\dev\Desktop\Backend SENAI - Tarde\backend_sistema produtos\obj\Debug\netcoreapp3.1\backend_sistema produtos.genruntimeconfig.cache

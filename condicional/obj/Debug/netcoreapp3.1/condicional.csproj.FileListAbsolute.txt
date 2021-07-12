@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\backend\condicional\obj\Debug\netcoreapp3.1\condicional.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\backend\condicional\obj\Debug\netcoreapp3.1\condicional.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\backend\condicional\obj\Debug\netcoreapp3.1\condicional.AssemblyInfo.cs
+C:\Users\dev\Desktop\backend\condicional\obj\Debug\netcoreapp3.1\condicional.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\backend\condicional\bin\Debug\netcoreapp3.1\condicional.exe
+C:\Users\dev\Desktop\backend\condicional\bin\Debug\netcoreapp3.1\condicional.deps.json
+C:\Users\dev\Desktop\backend\condicional\bin\Debug\netcoreapp3.1\condicional.runtimeconfig.json
+C:\Users\dev\Desktop\backend\condicional\bin\Debug\netcoreapp3.1\condicional.runtimeconfig.dev.json
+C:\Users\dev\Desktop\backend\condicional\bin\Debug\netcoreapp3.1\condicional.dll
+C:\Users\dev\Desktop\backend\condicional\bin\Debug\netcoreapp3.1\condicional.pdb
+C:\Users\dev\Desktop\backend\condicional\obj\Debug\netcoreapp3.1\condicional.dll
+C:\Users\dev\Desktop\backend\condicional\obj\Debug\netcoreapp3.1\condicional.pdb
+C:\Users\dev\Desktop\backend\condicional\obj\Debug\netcoreapp3.1\condicional.genruntimeconfig.cache

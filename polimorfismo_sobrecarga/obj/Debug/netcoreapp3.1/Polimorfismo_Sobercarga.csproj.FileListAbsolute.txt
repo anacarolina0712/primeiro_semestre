@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\obj\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\obj\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\obj\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.AssemblyInfo.cs
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\obj\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\bin\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.exe
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\bin\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.deps.json
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\bin\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.runtimeconfig.json
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\bin\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.runtimeconfig.dev.json
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\bin\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.dll
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\bin\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.pdb
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\obj\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.dll
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\obj\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.pdb
+C:\Users\fic\Desktop\backend1DT_tarde\Polimorfismo_Sobercarga\obj\Debug\netcoreapp3.1\Polimorfismo_Sobercarga.genruntimeconfig.cache

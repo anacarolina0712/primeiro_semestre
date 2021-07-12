@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\bin\Debug\netcoreapp3.1\Projeto2 (Média).exe
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\bin\Debug\netcoreapp3.1\Projeto2 (Média).deps.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\bin\Debug\netcoreapp3.1\Projeto2 (Média).runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\bin\Debug\netcoreapp3.1\Projeto2 (Média).runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\bin\Debug\netcoreapp3.1\Projeto2 (Média).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\bin\Debug\netcoreapp3.1\Projeto2 (Média).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\obj\Debug\netcoreapp3.1\Projeto2 (Média).csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\obj\Debug\netcoreapp3.1\Projeto2 (Média).AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\obj\Debug\netcoreapp3.1\Projeto2 (Média).AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\obj\Debug\netcoreapp3.1\Projeto2 (Média).csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\obj\Debug\netcoreapp3.1\Projeto2 (Média).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\obj\Debug\netcoreapp3.1\Projeto2 (Média).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto2 (Média)\obj\Debug\netcoreapp3.1\Projeto2 (Média).genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\bin\Debug\netcoreapp3.1\switch-case.exe
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\bin\Debug\netcoreapp3.1\switch-case.deps.json
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\bin\Debug\netcoreapp3.1\switch-case.runtimeconfig.json
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\bin\Debug\netcoreapp3.1\switch-case.runtimeconfig.dev.json
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\bin\Debug\netcoreapp3.1\switch-case.dll
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\bin\Debug\netcoreapp3.1\switch-case.pdb
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\obj\Debug\netcoreapp3.1\switch-case.csprojAssemblyReference.cache
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\obj\Debug\netcoreapp3.1\switch-case.AssemblyInfoInputs.cache
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\obj\Debug\netcoreapp3.1\switch-case.AssemblyInfo.cs
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\obj\Debug\netcoreapp3.1\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\obj\Debug\netcoreapp3.1\switch-case.dll
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\obj\Debug\netcoreapp3.1\switch-case.pdb
+C:\Users\FABIO\Desktop\PrimeiroProjeto\calculadoras simples\switch-case\obj\Debug\netcoreapp3.1\switch-case.genruntimeconfig.cache

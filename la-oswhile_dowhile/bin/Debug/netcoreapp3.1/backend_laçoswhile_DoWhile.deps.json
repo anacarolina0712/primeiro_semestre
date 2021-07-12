@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "backend_laçoswhile_DoWhile/1.0.0": {
+        "runtime": {
+          "backend_laçoswhile_DoWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "backend_laçoswhile_DoWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,4 @@
+C:\Users\FABIO\Desktop\curso tecnico\aula19-11-20\cadastro\obj\Debug\netcoreapp3.1\cadastro.csprojAssemblyReference.cache
+C:\Users\FABIO\Desktop\curso tecnico\aula19-11-20\cadastro\obj\Debug\netcoreapp3.1\cadastro.AssemblyInfoInputs.cache
+C:\Users\FABIO\Desktop\curso tecnico\aula19-11-20\cadastro\obj\Debug\netcoreapp3.1\cadastro.AssemblyInfo.cs
+C:\Users\FABIO\Desktop\curso tecnico\aula19-11-20\cadastro\obj\Debug\netcoreapp3.1\cadastro.csproj.CoreCompileInputs.cache
